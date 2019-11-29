@@ -5,5 +5,7 @@ public class EasyPoiTest {
 
     public void testPut() {
         System.out.println("true = " + true);
+        System.out.println("true = " + true);
+
     }
 }
